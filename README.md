@@ -1,4 +1,3 @@
-DSA assignment
 Assignment 1
 This assignment contains 10 questions with 2 concept and 5 code related questions.
 All the code questions are provided in the src folder by their names.
